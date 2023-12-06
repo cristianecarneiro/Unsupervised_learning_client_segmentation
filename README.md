@@ -18,9 +18,9 @@ The segmentation and subsequent customer profiling will provide Brand Co. with v
 
 ## Segments/Personas  
 
-The project has resulted in the identification of X customer segments, consisting of Y females and Z males. Each segment has been represented by a distinctive 'Persona'.
+The project has led to the identification of X customer segments, comprising Y segments for females and Z segments for males. Each segment has been portrayed through a distinctive 'Persona'.
 
-For detailed profiles of each 'Persona', please refer to the presentation linked here: [insert link].
+For comprehensive profiles of each 'Persona', please refer to the presentation linked here: [insert link].
 
 
 ## Methodology 
