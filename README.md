@@ -27,11 +27,21 @@ For detailed profiles of each female 'Persona', access the comprehensive present
 
 ## Methodology <a name="methodology"></a>
 
-X
+We began by assembling a synthetic client database containing dummy variables representing a wide range of demographic details such as residence country, gender, and generation, along with comprehensive product purchase records covering categories, colors, and seasons.
+
+Our approach involved these key steps:
+
+1. Database Exploration and Transformation: We thoroughly examined the database's structure, addressing null values, outliers, and collinearity issues. We prepared the data for analysis by transforming it as necessary.
+
+2. Clustering Model Application: We utilized multiple clustering algorithms (K-means, Hierarchical Clustering, DBSCAN), ultimately selecting K-means due to its ability to generate more distinct client groups.
+
+3. Analysis of Results: We scrutinized the clustering outcomes to extract insightful patterns from the segmented client groups. We assessed cluster differences using statistical tests like ANOVA and Tukey HDS to validate their significance.
+
+4. Creation of Female 'Personas' Profiles: Specifically focusing on the female demographic cluster, we developed detailed profiles highlighting their unique characteristics, behaviors, and preferences.
 
 ## Repository Structure <a name="repositorystructure"></a>
 
-X
+
 
 
 
