@@ -48,7 +48,7 @@ Our approach involved these key steps:
 ## Repository Structure <a name="repositorystructure"></a>
 
 - data: 
-  - original: initial synthetic data set 
+  - original: initial synthetic dataset 
   - clean: transformed dataset for model
   - clusters: final clusters  
 
