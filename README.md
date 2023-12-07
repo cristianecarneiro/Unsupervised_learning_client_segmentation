@@ -40,6 +40,11 @@ Our approach involved these key steps:
 
 4. Creation of Female 'Personas' Profiles: Specifically focusing on the female demographic cluster, we developed detailed profiles highlighting their unique characteristics, behaviors, and preferences.
 
+<center>
+    <img src="./images/methodology.png" alt="Alt text" width="650">
+</center>
+
+
 ## Repository Structure <a name="repositorystructure"></a>
 
 - data: 
