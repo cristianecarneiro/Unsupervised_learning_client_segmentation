@@ -23,7 +23,8 @@ The segmentation and subsequent customer profiling will provide Brand Co. with v
 
 The project has successfully identified six distinct customer segments, evenly divided into three segments for females and three segments for males. As part of this analysis, unique 'Personas' have been created to represent the female segments.
 
-For detailed profiles of each female 'Persona', access the comprehensive presentation available at the following link: [https://view.genial.ly/657050a9d853170013046bf7/interactive-content-ironhackcustomersegmentation].
+For detailed profiles of each female 'Persona', access the comprehensive presentation [here](https://view.genial.ly/657050a9d853170013046bf7/interactive-content-ironhackcustomersegmentation).
+
 
 ## Methodology <a name="methodology"></a>
 
@@ -41,7 +42,16 @@ Our approach involved these key steps:
 
 ## Repository Structure <a name="repositorystructure"></a>
 
+- data: 
+  - original: initial synthetic data set 
+  - clean: transformed dataset for model
+  - clusters: final clusters  
 
+- notebooks: notebooks for data cleaning, models, and statistical analysis 
+
+- images: images used in the project  
+
+- README.md: project description    
 
 
 
